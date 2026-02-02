@@ -1,0 +1,4 @@
+matplotlib>=3.5.0
+textblob>=0.17.1
+alt-profanity-check>=1.0.0
+numpy>=1.21.0
